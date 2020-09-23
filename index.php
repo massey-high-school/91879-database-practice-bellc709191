@@ -4,12 +4,12 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Put Content Here">
-    <meta name="keywords" content="Put keywords here">
-    <meta name="author" content="Put your name here">
+    <meta name="description" content="Book, Review, Database">
+    <meta name="keywords" content="Books, Reading, Fiction, Non-Fiction, Genre, Reviews">
+    <meta name="author" content="Caitlin Bell">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>Website Title goes here</title>
+    <title>Book Reviews</title>
     
     <!-- Edit the link below / replace with your chosen google font -->
     <link href="https://fonts.googleapis.com/css?family=Lato%7cUbuntu" rel="stylesheet"> 
@@ -29,27 +29,27 @@
             
         <!-- logo image linking to home page goes here -->
         <a href="index.php">
-            <div class="box logo"  title="Logo - Click here to go to the Home Page">
-            <img class="img-circle" src="images/gen_logo.png" width="150" height="150" alt="generic logo" />
+            <div class=""  title="">
+            <img class="" src="" width="" height="" alt="" />
             
             </div>    <!-- / logo -->
         </a>
             
-            <h1>Website Name</h1>
-        </div>    <!-- / banner -->
-
-        <!-- Navigation goes here.  Edit BOTH the file name and the link name -->
-        <div class="box nav">
-            <a href="index.html">Home</a> | 
-            <a href="page1.html">Page 1</a> | 
-            <a href="page2.html">Page 2</a> | 
-            <a href="page3.html">Page 3</a> | 
-            <a href="contact.html">Contact</a>
-        </div>    <!-- / nav -->        
+            <h1>Book Reviews</h1>
+        </div>    <!-- / banner -->       
         
         <div class="box side">
         
-            Side bar / search goes here
+            <h2>Search  |  <a class="side" href="showall_php">Show All</a></h2>
+                
+            <i>Type some of the Title or Author name if wanted</i>
+            
+            <hr />
+            
+            Title Search<br />
+            Author Search<br />
+            Genre Search<br />
+            
             
         </div>
         
@@ -72,7 +72,7 @@
         
 
         <div class="box footer">
-            CC yourname 20XX
+            CC Caitlin Bell 2020
         </div>    <!-- / footer -->
     
     </div>  <!-- / wrapper  -->
