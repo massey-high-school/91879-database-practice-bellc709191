@@ -40,16 +40,16 @@
         
         <div class="box side">
         
-            <h2>Side Bar</h2>
-                <p>items go here</p>
+            <h2>Search  |  <a class="side" href="showall_php">Show All</a></h2>
+                
+            <i>Type some of the Title or Author name if wanted</i>
             
-                <ul>
-                    <li>Here</li>
-                    <li>is</li>
-                    <li>a</li>
-                    <li>list</li>
+            <hr />
             
-                </ul>
+            Title Search<br />
+            Author Search<br />
+            Genre Search<br />
+            
             
         </div>
         
